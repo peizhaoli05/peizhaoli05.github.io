@@ -1,7 +1,7 @@
 ---
 title: "Data Structures and the Fundamentals of Computing"
 collection: teaching
-type: "Undergraduate course"
+type: "Head Teaching Assistant, Undergraduate Course"
 venue: "Brandeis University"
 date: 2019-09-01
 ---
