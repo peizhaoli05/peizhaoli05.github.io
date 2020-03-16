@@ -17,6 +17,8 @@ His research interests lie in the general area of machine learning, particularly
 Footprints
 ------
 
+2020.03 &nbsp; Peizhao is joining Adobe Research this summer.
+
 2020.02 &nbsp; One paper on Fair Clustering accepted by CVPR 2020.
 
 2019.07 &nbsp; One paper on Multi-object Tracking available on [arXiv](https://arxiv.org/abs/1907.05315).
