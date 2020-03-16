@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peizhao Li"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. Student in Computer Science"
   location         : "Waltham, MA"
   employer         :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true

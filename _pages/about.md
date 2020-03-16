@@ -14,8 +14,6 @@ Before getting to Brandeis, he obtained the bachelor's degree in Electronic and 
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
 
-<br/>
-
 Footprints
 ------
 
@@ -26,8 +24,6 @@ Footprints
 2019.04 &nbsp; One paper on Fashion Recognition accepted by ICIP 2019.
 
 2018.09 &nbsp; Two papers accepted by WACV 2019.
-
-<br/>
 
 Reach Me
 ------
