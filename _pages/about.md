@@ -8,14 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<br/>
+
 Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
 
 Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, advised by Dr. Xiantong Zhen.
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
 
+<br/>
+
 Footprints
 ======
+<br/>
+
 2020.02 &nbsp; One paper on Fair Clustering accepted by CVPR 2020.
 
 2019.07 &nbsp; One paper on Multi-object Tracking available on [arXiv](https://arxiv.org/abs/1907.05315).
@@ -24,15 +30,17 @@ Footprints
 
 2018.09 &nbsp; Two papers accepted by WACV 2019.
 
+<br/>
+
 Reach Me
 =====
-Email:
+<br/>
 
+Email:  
 peizhaoli [at] brandeis [dot] edu  
 peizhaoli05 [at] gmail [dot] com  
 
-Address:
-
+Address:  
 Volen Center for Complex Systems 109  
 Brandeis University, 415 South St.  
 Waltham, MA 02454
