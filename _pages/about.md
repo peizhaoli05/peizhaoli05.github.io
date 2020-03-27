@@ -17,7 +17,7 @@ His research interests lie in the general area of machine learning, particularly
 Footprints
 ------
 
-2020.03 &nbsp; Peizhao is joining Adobe Research this summer.
+2020.03 &nbsp; Peizhao is joining Adobe Research as Machine Learning Intern this summer.
 
 2020.02 &nbsp; One paper on Fair Clustering accepted by CVPR 2020.
 
