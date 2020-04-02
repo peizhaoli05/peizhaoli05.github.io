@@ -13,3 +13,14 @@ He still always recall his happiest time in Beijing No.2 high school, where the 
 In his spare time, he enjoys playing soccer and guitar, watching Premier League (fan of Liverpool), sharing interesting or thought-provoking things that are going on his life in Weibo, or just spending time on the phone.
 
 He intends to write down a small article to summary his Ph.D. time when he graduates. We will see what he can bring.
+
+The Bitters
+------
+
+2020.02 &nbsp; One paper rejected by CVPR 2020.
+
+2019.11 &nbsp; One paper rejected by AAAI 2020.
+
+2019.04 &nbsp; One paper rejected by CVPR 2019 workshop.
+
+2019.02 &nbsp; Two papers rejected by CVPR 2019.
