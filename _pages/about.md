@@ -17,11 +17,13 @@ His research interests lie in the general area of machine learning, particularly
 Footprints
 ------
 
-2020.03 &nbsp; Peizhao is joining Adobe Research as Machine Learning Intern this summer.
+2020.06 &nbsp; One paper on Unsupervised Domain Adaptation is available on [arXiv](https://arxiv.org/abs/2006.09565).
+
+2020.03 &nbsp; Peizhao is joining Document Intelligence Labs@Adobe Research as Machine Learning Intern this summer.
 
 2020.02 &nbsp; One paper on Fair Clustering accepted by CVPR 2020.
 
-2019.07 &nbsp; One paper on Multi-object Tracking available on [arXiv](https://arxiv.org/abs/1907.05315).
+2019.07 &nbsp; One paper on Multi-object Tracking is available on [arXiv](https://arxiv.org/abs/1907.05315).
 
 2019.04 &nbsp; One paper on Fashion Recognition accepted by ICIP 2019.
 

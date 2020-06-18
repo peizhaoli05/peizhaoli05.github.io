@@ -5,14 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-Deep Fair Clustering for Visual Learning
+[Mining Label Distribution Drift in Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.09565)
+------
+**Peizhao Li**, Zhengming Ding, Hongfu Liu  
+arXiv preprint, arXiv: 2006.09565
+
+[Deep Fair Clustering for Visual Learning](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html)
 ------
 **Peizhao Li**, Han Zhao, Hongfu Liu  
-Accepted by CVPR 2020
+2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 [Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking](https://arxiv.org/abs/1907.05315)
 ------
-Xiaolong Jiang, **Peizhao Li**, Yanjing Li, Xiantong Zhen  
+Xiaolong Jiang*, **Peizhao Li***, Yanjing Li, Xiantong Zhen  
 arXiv preprint, arXiv: 1907.05315
 
 [Two-Stream Multi-Task Network for Fashion Recognition](https://ieeexplore.ieee.org/abstract/document/8803394)
