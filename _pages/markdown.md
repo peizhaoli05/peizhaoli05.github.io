@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![avatar](../images/me.JPG)
-Photographed by Jiayu Chen.
+Photographed by Jiayu Chen@Boston Lot Lake, NH.
 
 Peizhao was born and raised in Beijing, China. He fortunately spent his first 22 years in this great city with his dear family and friends.
 He still always recalls his happiest time in Beijing No.2 high school, where the flexible and supportive culture left him an unforgettable memory.
