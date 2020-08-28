@@ -5,10 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Advanced Topics in Graph Mining
+-----
+Teaching Assistant with Prof. Chuxu Zhang  
+Graduate Course, Brandeis University, 2020 Fall
+
+
 Topics in Natural Language Processing
 ------
 Teaching Assistant with Prof. Constantine Lignos,  
-Graduade Course, Brandeis University, 2020 Spring  
+Graduate Course, Brandeis University, 2020 Spring  
 
 
 Data Structures and the Fundamentals of Computing
