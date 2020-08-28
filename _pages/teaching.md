@@ -7,7 +7,7 @@ author_profile: true
 
 Advanced Topics in Graph Mining
 -----
-Teaching Assistant with Prof. Chuxu Zhang  
+Teaching Assistant with Prof. Chuxu Zhang,  
 Graduate Course, Brandeis University, 2020 Fall
 
 
