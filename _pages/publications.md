@@ -17,7 +17,7 @@ arXiv preprint, arXiv: 2006.09565
 
 [Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking](https://arxiv.org/abs/1907.05315)
 ------
-Xiaolong Jiang*, **Peizhao Li***, Yanjing Li, Xiantong Zhen  
+Xiaolong Jiang\*, **Peizhao Li**\*, Yanjing Li, Xiantong Zhen  
 arXiv preprint, arXiv: 1907.05315
 
 [Two-Stream Multi-Task Network for Fashion Recognition](https://ieeexplore.ieee.org/abstract/document/8803394)
