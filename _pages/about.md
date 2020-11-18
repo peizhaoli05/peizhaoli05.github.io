@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+------
+
 Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
 
 Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, advised by Dr. Xiantong Zhen.
