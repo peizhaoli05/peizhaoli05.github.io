@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,31 +12,41 @@ Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brande
 
 Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, advised by Dr. Xiantong Zhen.
 
+In Summer 2020, he did his internship at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning.
+
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
 
-Footprints
+Publications
 ------
 
-2020.06 &nbsp; One paper on Unsupervised Domain Adaptation is available on [arXiv](https://arxiv.org/abs/2006.09565).
+[Mining Label Distribution Drift in Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.09565)  
+**Peizhao Li**, Zhengming Ding, Hongfu Liu  
+arXiv preprint, arXiv: 2006.09565
 
-2020.03 &nbsp; Peizhao is joining Document Intelligence Labs@Adobe Research as Machine Learning Intern this summer.
+[Deep Fair Clustering for Visual Learning](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html)  
+**Peizhao Li**, Han Zhao, Hongfu Liu  
+2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
-2020.02 &nbsp; One paper on Fair Clustering accepted by CVPR 2020.
+[Graph Neural Based End-to-end Data Association Framework for Online Multiple-Object Tracking](https://arxiv.org/abs/1907.05315)  
+Xiaolong Jiang\*, **Peizhao Li**\*, Yanjing Li, Xiantong Zhen  
+arXiv preprint, arXiv: 1907.05315
 
-2019.07 &nbsp; One paper on Multi-object Tracking is available on [arXiv](https://arxiv.org/abs/1907.05315).
+[Two-Stream Multi-Task Network for Fashion Recognition](https://ieeexplore.ieee.org/abstract/document/8803394)  
+**Peizhao Li**, Yanjing Li, Xiaolong Jiang, Xiantong Zhen  
+2019 IEEE International Conference on Image Processing (ICIP)
 
-2019.04 &nbsp; One paper on Fashion Recognition accepted by ICIP 2019.
+[Multi-Scale Aggregation Network for Direct Face Alignment](https://ieeexplore.ieee.org/abstract/document/8659103)  
+**Peizhao Li**, Anran Zhang, Lei Yue, Xiantong Zhen, Xianbin Cao  
+2019 IEEE Winter Conference on Applications of Computer Vision (WACV)
 
-2018.09 &nbsp; Two papers accepted by WACV 2019.
+[Model-free Tracking with Deep Appearance and Motion Features Integration](https://ieeexplore.ieee.org/abstract/document/8658645)  
+Xiaolong Jiang, **Peizhao Li**, Xiantong Zhen, Xianbin Cao  
+2019 IEEE Winter Conference on Applications of Computer Vision (WACV)
 
-Reach Me
+
+Contact
 ------
 
 Email:  
 peizhaoli [at] brandeis [dot] edu  
 peizhaoli05 [at] gmail [dot] com  
-
-Address:  
-Volen Center for Complex Systems 109  
-Brandeis University, 415 South St.  
-Waltham, MA 02454
