@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Peizhao Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,9 @@ Before getting to Brandeis, he obtained the bachelor's degree in Electronic and 
 In Summer 2020, he did his internship at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning.
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
+
+Contact: peizhaoli [at] brandeis [dot] edu
+
 
 Publications
 ------
