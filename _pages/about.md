@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peizhao Li"
+title: "Peizhao Li's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -48,11 +48,3 @@ arXiv preprint, arXiv: 1907.05315
 [Model-free Tracking with Deep Appearance and Motion Features Integration](https://ieeexplore.ieee.org/abstract/document/8658645)  
 Xiaolong Jiang, **Peizhao Li**, Xiantong Zhen, Xianbin Cao  
 2019 IEEE Winter Conference on Applications of Computer Vision (WACV)
-
-
-Contact
-------
-
-Email:  
-peizhaoli [at] brandeis [dot] edu  
-peizhaoli05 [at] gmail [dot] com  

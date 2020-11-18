@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peizhao Li's Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Peizhao Li"
 description              : &description "personal description"
