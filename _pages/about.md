@@ -19,7 +19,7 @@ In Summer 2020, he did his internship at Adobe Research, working with Dr. Jiuxia
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
 
-Contact: peizhaoli [at] brandeis [dot] edu
+Contact: *peizhaoli [at] brandeis [dot] edu*
 
 
 Publications
