@@ -22,6 +22,8 @@ His research interests lie in the general area of machine learning, particularly
 
 Contact: *peizhaoli [at] brandeis [dot] edu*
 
+[Life](/markdown/)
+
 
 Publications
 ------
