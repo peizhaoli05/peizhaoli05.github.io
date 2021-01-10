@@ -17,7 +17,7 @@ watching Premier League (fan of Liverpool since 2014, and also supporter of Beij
 Photographed by Jiayu Chen@Boston Lot Lake, NH, Summer 2020.
 
 ![with_zizhang.jpg](../images/with_zizhang.jpeg)
-The last day of 2020@Seaport, Boston. I am very fortunate to have Zizhang with me.
+The last day of 2020@Seaport, Boston. I am very fortunate to have Zizhang with me in Boston.
 
 ![2020_christmas.jpg](../images/2020_christmas.jpeg)
-Christmas Day 2020@Sei Bar Wakefield. From left to right: Dumpling Wang, Qi Liu, Zizhang Chen, Me, and Huiru Yu.
+Christmas Day 2020@Sei Bar Wakefield. From left to right: Haoyu Wang, Qi Liu, Zizhang Chen, Me, and Huiru Yu.
