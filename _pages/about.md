@@ -28,6 +28,10 @@ Contact: *peizhaoli [at] brandeis [dot] edu*
 Publications
 ------
 
+On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections
+**Peizhao Li**, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu
+Accepted by 2021 International Conference on Learning Representations (ICLR)
+
 [Mining Label Distribution Drift in Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.09565)  
 **Peizhao Li**, Zhengming Ding, Hongfu Liu  
 arXiv preprint, arXiv: 2006.09565
