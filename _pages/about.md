@@ -16,7 +16,7 @@ Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brande
 Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, advised by Dr. Xiantong Zhen.
 
 In Summer 2020, he did his internship at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning. 
-He is joining NEC Laboratories America in Spring 2021 and Mitsubishi Electric Research Laboratories in Summer 2021 .
+He is joining NEC Laboratories America in Spring 2021 and Mitsubishi Electric Research Laboratories in Summer 2021.
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
 
@@ -28,7 +28,7 @@ Contact: *peizhaoli [at] brandeis [dot] edu*
 Publications
 ------
 
-On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections  
+[On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)  
 **Peizhao Li**, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu  
 Accepted by 2021 International Conference on Learning Representations (ICLR)
 
