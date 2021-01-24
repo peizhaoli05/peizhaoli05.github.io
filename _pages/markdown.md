@@ -11,13 +11,16 @@ Peizhao was born and raised in Beijing, China. He fortunately spent his first 22
 He still always recalls his happiest time in Beijing No.2 high school, where the flexible and supportive culture left him an unforgettable memory.
 
 In his spare time, he enjoys playing soccer and guitar (learn guitar from [Su Bing](https://space.bilibili.com/360217593?spm_id_from=333.788.b_765f7570696e666f.2)), 
-watching Premier League (fan of Liverpool since 2014, and also supporter of Beijing Guoan), sharing interesting or thought-provoking things that are going on his life in Weibo, playing some games on steam (id: 美艳人妻7766), or just spending time on the phone (Bilibili & Hupu).
+watching Premier League (fan of Liverpool since 2014, and also supporter of Beijing Guoan), sharing interesting or thought-provoking things that are going on his life in Weibo, playing games on steam, or just spending time on the phone (Bilibili & Hupu).
 
 ![me.jpg](../images/me.JPG)
 Photographed by Jiayu Chen@Boston Lot Lake, NH, Summer 2020.
 
 ![with_zizhang.jpg](../images/with_zizhang.jpeg)
-The last day of 2020@Seaport, Boston. I am very fortunate to have Zizhang with me in Boston.
+The last day of 2020@Seaport, Boston. I am very fortunate to have Zizhang with me as my friend, colleague, and personal chef in Boston.
 
 ![2020_christmas.jpg](../images/2020_christmas.jpeg)
-Christmas Day 2020@Sei Bar Wakefield. From left to right: Haoyu Wang, Qi Liu, Zizhang Chen, Me, and Huiru Yu.
+Christmas Day 2020@Sei Bar Wakefield. From left to right: Haoyu Wang (a successful Ph.D. and a reliable man), Qi Liu (she brings joy and fun to the people around), Zizhang Chen, Me, and Huiru Yu (a tender and sensitive girl who I continually learn from).
+
+I want to sincerely thanks my father and my mother who offer me unconditional love although we are not in a perfect family, my grandmother in heaven who carry out all my elementary education, and my supportive family members, even though 
+they might never step into this page.
