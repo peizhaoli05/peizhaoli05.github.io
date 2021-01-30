@@ -22,5 +22,5 @@ The last day of 2020@Seaport, Boston. I am very fortunate to have Zizhang with m
 ![2020_christmas.jpg](../images/2020_christmas.jpeg)
 Christmas Day 2020@Sei Bar Wakefield. From left to right: Haoyu Wang (a successful Ph.D. and a reliable man), Qi Liu (she brings joy and fun to the people around), Zizhang Chen, Me, and Huiru Yu (a tender and sensitive girl who I continually learn from).
 
-I want to sincerely thanks my father and my mother who offer me unconditional love although we are not in a perfect family, my grandmother in heaven who carry out all my elementary education, and my supportive family members, even though 
+I want to sincerely thank my father and mother who offer me unconditional love although we are not in a perfect family, my grandmother in heaven who carry out my elementary education, and all my supportive family members, even though 
 they might never step into this page.
