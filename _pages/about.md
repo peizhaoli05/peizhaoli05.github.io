@@ -28,7 +28,7 @@ Contact: *peizhaoli [at] brandeis [dot] edu*
 Publications
 ------
 
-[SelfDoc: Self-Supervised Document Representation Learning](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Fair_Clustering_for_Visual_Learning_CVPR_2020_paper.html)  
+SelfDoc: Self-Supervised Document Representation Learning  
 **Peizhao Li**, Jiuxiang Gu, Jason Kuen, Vlad Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha, Hongfu Liu  
 Accepted by 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 

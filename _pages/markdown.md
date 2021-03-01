@@ -11,7 +11,7 @@ Peizhao was born and raised in Beijing, China. He fortunately spent his first 22
 He still always recalls his happiest time in Beijing No.2 high school, where the flexible and supportive culture left him an unforgettable memory.
 
 In his spare time, he enjoys playing soccer and guitar (learn guitar from [Su Bing](https://space.bilibili.com/360217593?spm_id_from=333.788.b_765f7570696e666f.2)), 
-watching Premier League (fan of Liverpool since 2014, and also supporter of Beijing Guoan), sharing interesting or thought-provoking things that are going on his life in Weibo, playing games on steam, or just spending time on the phone (Bilibili & Hupu).
+watching Premier League (being a fan of Liverpool since 2014, and also a supporter of Beijing Guoan), investment, or sharing interesting or thought-provoking things that are going on in his life on Weibo.
 
 ![me.jpg](../images/me.JPG)
 Photographed by Jiayu Chen@Boston Lot Lake, NH, Summer 2020.
