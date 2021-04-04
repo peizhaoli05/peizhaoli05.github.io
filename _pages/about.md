@@ -13,9 +13,9 @@ Biography
 
 Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
 
-Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, advised by Dr. Xiantong Zhen.
+Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, where he worked as an undergrad research assistant advised by Prof. Xiantong Zhen.
 
-In Summer 2020, he did his internship at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning. 
+In Summer 2020, he was a research intern at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning. 
 He is joining NEC Laboratories America in Spring 2021 and Mitsubishi Electric Research Laboratories in Summer 2021.
 
 His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
@@ -59,3 +59,8 @@ arXiv preprint, arXiv: 1907.05315
 [Model-free Tracking with Deep Appearance and Motion Features Integration](https://ieeexplore.ieee.org/abstract/document/8658645)  
 Xiaolong Jiang, **Peizhao Li**, Xiantong Zhen, Xianbin Cao  
 2019 IEEE Winter Conference on Applications of Computer Vision (WACV)
+
+
+Professional Services
+------
+Reviewer for IEEE Computational Intelligence Magazine, Journal of Combinatorial Optimization, INFOCOMP 2021
