@@ -11,18 +11,15 @@ redirect_from:
 Biography
 ------
 
-Peizhao is a Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
+My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
 
-Before getting to Brandeis, he obtained the bachelor's degree in Electronic and Information Engineering from Beihang University, where he worked as an undergrad research assistant advised by Prof. Xiantong Zhen.
+Before getting to Brandeis, I obtained my bachelor's degree in Electronic and Information Engineering from Beihang University, where I worked as an undergrad research assistant advised by Prof. Xiantong Zhen.
 
-In Summer 2020, he was a research intern at Adobe Research, working with Dr. Jiuxiang Gu on document representation learning. 
-He is joining NEC Laboratories America in Spring 2021 and Mitsubishi Electric Research Laboratories in Summer 2021.
+I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Laboratories America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research.
 
-His research interests lie in the general area of machine learning, particularly in representation learning, deep learning, algorithmic fairness, and their applications to real-world systems.
+My main research focuses on ethics in AI, algorithmic fairness, and the social impact of machine learning. During my research internship, I worked on various applied machine learning problems including automatic code editing and document analysis.
 
 Contact: *peizhaoli [at] brandeis [dot] edu*
-
-[About Peizhao's Life](/markdown/)
 
 
 Publications
@@ -34,7 +31,7 @@ Accepted by 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition 
 
 [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)  
 **Peizhao Li**, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu  
-Accepted by 2021 International Conference on Learning Representations (ICLR)
+2021 International Conference on Learning Representations (ICLR)
 
 [Mining Label Distribution Drift in Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.09565)  
 **Peizhao Li**, Zhengming Ding, Hongfu Liu  
