@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ------
 
-My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](http://hongfuliu.com/).
+My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/).
 
 Before getting to Brandeis, I obtained my bachelor's degree in Electronic and Information Engineering from Beihang University, where I worked as an undergrad research assistant advised by Prof. Xiantong Zhen.
 
