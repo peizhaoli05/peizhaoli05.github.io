@@ -11,13 +11,11 @@ redirect_from:
 Biography
 ------
 
-My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/).
+My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/). My research focuses on ethics in AI, algorithmic fairness, and the investigation of potential bias of machine learning algorithms.
 
-Before getting to Brandeis, I obtained my bachelor's degree in Electronic and Information Engineering from Beihang University, where I worked as an undergrad research assistant advised by Prof. Xiantong Zhen.
+Before getting to Brandeis, I obtained my bachelor's degree in Electronic and Information Engineering from Beihang University in 2019, where I worked on computer vision and deep learning advised by Prof. Xiantong Zhen.
 
-I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Laboratories America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research.
-
-My main research focuses on ethics in AI, algorithmic fairness, and the social impact of machine learning. During my research internship, I worked on various applied machine learning problems including automatic code editing and document analysis.
+I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Labs America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research. During my internships, I worked on various applied machine learning projects including automatic code editing and document analysis.
 
 Contact: *peizhaoli [at] brandeis [dot] edu*
 
