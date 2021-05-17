@@ -25,7 +25,7 @@ Publications
 
 Deep Clustering-based Fair Outlier Detection  
 Hanyu Song, **Peizhao Li**, Hongfu Liu  
-Accepted by 2021 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+Accepted by 2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 
 SelfDoc: Self-Supervised Document Representation Learning  
 **Peizhao Li**, Jiuxiang Gu, Jason Kuen, Vlad Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha, Hongfu Liu  
