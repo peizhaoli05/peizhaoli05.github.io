@@ -19,6 +19,8 @@ I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.
 
 Contact: *peizhaoli [at] brandeis [dot] edu*
 
+Here is my latest [CV](./CV_PeizhaoLi.pdf).
+
 
 Publications
 ------
