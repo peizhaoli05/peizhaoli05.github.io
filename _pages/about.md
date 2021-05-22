@@ -17,9 +17,9 @@ Before getting to Brandeis, I obtained my bachelor's degree in Electronic and In
 
 I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Labs America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research. During my internships, I worked on various applied machine learning projects including automatic code editing and document analysis.
 
-Contact: *peizhaoli [at] brandeis [dot] edu*
-
 Here is my latest [CV](./CV_PeizhaoLi.pdf).
+
+Contact: *peizhaoli [at] brandeis [dot] edu*
 
 
 Publications
