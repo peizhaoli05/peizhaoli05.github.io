@@ -11,9 +11,9 @@ redirect_from:
 Biography
 ------
 
-My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/). My research focuses on ethics in AI, algorithmic fairness, and the investigation of potential bias of machine learning algorithms.
+My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/). My research focuses on ethics in AI, algorithmic fairness, and the investigation/correction of potential bias in machine learning algorithms.
 
-Before getting to Brandeis, I obtained my bachelor's degree in Electronic and Information Engineering from Beihang University in 2019, where I worked on computer vision and deep learning advised by Prof. Xiantong Zhen.
+Before getting to Brandeis, I obtained my bachelor's degree from Beihang University in 2019, where I worked on computer vision and deep learning advised by Prof. Xiantong Zhen.
 
 I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Labs America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research. During my internships, I worked on various applied machine learning projects including automatic code editing and document analysis.
 
@@ -27,11 +27,11 @@ Publications
 
 Deep Clustering-based Fair Outlier Detection  
 Hanyu Song, **Peizhao Li**, Hongfu Liu  
-Accepted by 2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (To appear)
 
 SelfDoc: Self-Supervised Document Representation Learning  
 **Peizhao Li**, Jiuxiang Gu, Jason Kuen, Vlad Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha, Hongfu Liu  
-Accepted by 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (To appear)
 
 [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)  
 **Peizhao Li**, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu  
