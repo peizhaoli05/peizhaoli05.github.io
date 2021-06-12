@@ -25,11 +25,11 @@ Contact: *peizhaoli [at] brandeis [dot] edu*
 Publications
 ------
 
-Deep Clustering-based Fair Outlier Detection  
+[Deep Clustering based Fair Outlier Detection](https://arxiv.org/abs/2106.05127)  
 Hanyu Song, **Peizhao Li**, Hongfu Liu  
-2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (To appear)
+2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (To appear)  
 
-SelfDoc: Self-Supervised Document Representation Learning  
+[SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331)  
 **Peizhao Li**, Jiuxiang Gu, Jason Kuen, Vlad Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha, Hongfu Liu  
 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (To appear)
 
