@@ -64,4 +64,8 @@ Xiaolong Jiang, **Peizhao Li**, Xiantong Zhen, Xianbin Cao
 
 Professional Services
 ------
-Reviewer for IEEE Computational Intelligence Magazine, Journal of Combinatorial Optimization, INFOCOMP 2021
+Review for:  
+IEEE Computational Intelligence Magazine   
+Journal of Combinatorial Optimization  
+Big Data  
+INFOCOMP 2021
