@@ -13,7 +13,7 @@ Biography
 
 My name is Peizhao Li (李沛钊). I am a second-year Ph.D. student with the Michtom School of Computer Science at Brandeis University, advised by [Prof. Hongfu Liu](http://hongfuliu.com/). My research focuses on ethics in AI, algorithmic fairness, and the investigation/correction of potential bias in machine learning algorithms.
 
-Before getting to Brandeis, I obtained my bachelor's degree from Beihang University in 2019, where I worked on computer vision and deep learning advised by Prof. Xiantong Zhen.
+Before getting to Brandeis, I obtained my bachelor's degree from Beihang University in 2019, where I worked on computer vision and deep learning advising by Prof. Xiantong Zhen.
 
 I have spent time as a research intern with [Dr. Xuchao Zhang](https://xuczhang.github.io/) at NEC Labs America, and with [Dr. Jiuxiang Gu](https://gujiuxiang.com/) at Adobe Research. During my internships, I worked on various applied machine learning projects including automatic code editing and document analysis.
 
@@ -29,9 +29,9 @@ Publications
 Hanyu Song, **Peizhao Li**, Hongfu Liu  
 2021 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (To appear)  
 
-[SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331)  
+[SelfDoc: Self-Supervised Document Representation Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.html)  
 **Peizhao Li**, Jiuxiang Gu, Jason Kuen, Vlad Morariu, Handong Zhao, Rajiv Jain, Varun Manjunatha, Hongfu Liu  
-2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (To appear)
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)  
 **Peizhao Li**, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu  
@@ -60,6 +60,8 @@ arXiv preprint, arXiv: 1907.05315
 [Model-free Tracking with Deep Appearance and Motion Features Integration](https://ieeexplore.ieee.org/abstract/document/8658645)  
 Xiaolong Jiang, **Peizhao Li**, Xiantong Zhen, Xianbin Cao  
 2019 IEEE Winter Conference on Applications of Computer Vision (WACV)
+
+Codes can be found at [brandeis-machine-learning](https://github.com/brandeis-machine-learning).
 
 
 Professional Services
