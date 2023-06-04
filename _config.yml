@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /~peizhaoli
+baseurl: "https://peizhaoli05.github.io"
 
 collections:
   projects:
